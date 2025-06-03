@@ -1,4 +1,4 @@
-Netflix Movies and TV Shows Analysis
+##Netflix Movies and TV Shows Analysis
 Project Overview
 This project involves exploring and analyzing a dataset containing information about movies and TV shows available on Netflix. The goal is to perform exploratory data analysis (EDA) to uncover insights about content distribution, trends over time, genres, ratings, and other interesting patterns. This helps in understanding Netflix’s content library and user preferences.
 
